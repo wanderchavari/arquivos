@@ -1,0 +1,13 @@
+{
+	"name": "arquivos",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^1.7.8",
+		"github.com/hashload/horse-logger": "^0.1.5",
+		"github.com/hashload/horse-octet-stream": "^1.9.2"
+	}
+}
